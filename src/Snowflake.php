@@ -18,7 +18,7 @@ class Snowflake
 
     const MAX_WORKID_LENGTH = 2;
 
-    const MAX_SEQUENCE_LENGTH = 16;
+    const MAX_SEQUENCE_LENGTH = 12;
 
     const MAX_FIRST_LENGTH = 1;
 
